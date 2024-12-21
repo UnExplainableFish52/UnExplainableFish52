@@ -18,6 +18,7 @@
 <a target="_blank" href="https://stackoverflow.com/users/FishyDev52" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 # A beautiful quote while you're here!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnExplainableFish52&show_icons=true&locale=en&layout=compact" alt="UnExplainableFish52" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
