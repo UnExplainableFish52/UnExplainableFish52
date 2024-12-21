@@ -16,6 +16,8 @@
 <a target="_blank" href="https://www.facebook.com/UnExplainableFish52" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/UnExplainableFish52" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/FishyDev52" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+# A beautiful quote while you're here!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnExplainableFish52&show_icons=true&locale=en&layout=compact" alt="UnExplainableFish52" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
