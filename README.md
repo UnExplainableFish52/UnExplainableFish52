@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently honing my skills in Python, SQL, and modern frameworks.<br><br>👯 I’m looking to collaborate on<br>Creative full-stack projects, automation tools, data analytics, and impactful open-source contributions.<br><br>🤝 I’m looking for help with<br>Mastering Python frameworks like NumPy and Pandas, building smart automation, and turning my SaaS ideas into reality!<br><br>🌱 I’m currently learning<br>SQL, Python libraries, and exploring other cool tools to level up my developer toolkit.<br><br>💬 Ask me about<br>Philosophy, the evolution of computers, how a computer system works at its core, CS fundamentals, or just to brainstorm ideas!<br><br>⚡ Fun fact<br>I'm into Philosophy, Life, Computers, and IT stuff—and I carry a goal to guide humanity to build a better world!
+🔭 I’m currently learning linux and Security. <br><br>👯 I’m looking to collaborate on: <br> lokii.tech; an open source free edu platform. <br><br>🤝 I’m looking for help with<br>Mastering Linux, Networks and OS<br><br>🌱 I’m currently learning<br>Ansible and Awk along with linux. <br><br>💬 Ask me about<br> linux, Networks, OS, Security Hardening, <br><br>⚡ Fun fact<br>I like to play Minecraft in my free time, and I carry a goal to guide humanity to build a better world!
 
 
 ## 🌐 Socials:
