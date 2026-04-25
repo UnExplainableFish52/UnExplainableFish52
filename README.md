@@ -1,26 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently learning linux and Security.<br><br>👯 I’m looking to collaborate on:<br>lokii.tech; an open source free edu platform.<br><br>🤝 I’m looking for help with<br>Mastering Linux, Networks and OS<br><br>🌱 I’m currently learning<br>Ansible and Awk along with linux.<br><br>💬 Ask me about<br>linux, Networks, OS, Security Hardening,<br><br>⚡ Fun fact<br>I like to play Minecraft in my free time, and I carry a goal to guide humanity to build a better world!
+# Saksham Sharma
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=unexplainablefish52&label=Profile%20views&color=0e75b6&style=flat" alt="unexplainablefish52" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/unexplainablefish52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamsharma52) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@sakshamsharma.com.np) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharma52/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info@sakshamsharma.com.np)
+[![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white&link=https://sakshamsharma.com.np/)](https://sakshamsharma.com.np/)
+[![Blogs](https://img.shields.io/badge/-Blogs-0aa6a6?style=flat&logo=readthedocs&logoColor=white&link=https://blogs.sakshamsharma.com.np/)](https://blogs.sakshamsharma.com.np/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/unexplainablefish52)
+[![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https://github.com/unexplainablefish52)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UnExplainableFish52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UnExplainableFish52&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnExplainableFish52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UnExplainableFish52&theme=dark&no-frame=false&no-bg=true&margin-w=4)   -->
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m a 20-year-old techie focused on networking fundamentals, Linux, operating systems, and security. I’m learning deep concepts behind how the internet and systems really work.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UnExplainableFish52&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## What I'm Doing Now
+
+- Going deep into networking fundamentals (how the internet actually works)
+- Strengthening Linux skills in parallel (systems, tooling, automation)
+- Learning security concepts behind real-world internet tech (hardening, threat thinking, defense)
+- Writing Fisholophies (articles/writings) and vibecoding occasionally as a hobby
+- Building lokii.tech: free knowledge, valuable guides, and career paths (more coming soon)
+- Looking for friends to practice and master deep concepts together. Open to connect and collaborate
+
+Reach me: [Email](mailto:info@sakshamsharma.com.np)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UnExplainableFish52&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Ask me about: 
+
+- Linux fundamentals and shell scripting (Bash)
+- Networking basics to intermediate (TCP/IP, DNS, HTTP, routing)
+- OS concepts (processes, memory, permissions, filesystems)
+- Security hardening and safe system habits
+
+Fun fact: I play Minecraft in my free time, and I carry a goal to help guide humanity toward building a better world.
+
+---
+
+## Skills
+
+**Main**
+- Incident response
+- Log analysis
+- Post-incident reporting (report writing after an attack)
+
+**Security + Systems**
+- Security hardening, Principle of Least Privilege
+- SIEM
+- Networking (packet capture and analysis, Wireshark, PCAP)
+- pfSense
+- Linux
+- Shell (Bash)
+
+**Automation + Programming**
+- Automation (Ansible, Python scripts, shell scripts)
+
+## Tech Stack
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=gnu-bash&color=353535)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&color=353535)
+![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=353535)
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=c%2B%2B&color=353535)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&color=353535)
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat-square&logo=powershell&color=353535)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&color=353535)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&color=353535)
+
+
+---
+
+<details>
+  <summary><b>GitHub Stats (expand)</b></summary>
+  <br />
+
+  ![](https://github-readme-stats.vercel.app/api?username=UnExplainableFish52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnExplainableFish52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=UnExplainableFish52&icon=7&color=0)](https://visitcount.itsvg.in)
