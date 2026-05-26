@@ -13,12 +13,11 @@
 
 ## About Me
 
-I’m a 20-year-old techie focused on networking fundamentals, Linux, operating systems, and security. I’m learning deep concepts behind how the internet and systems really work.
+I’m a 21-year-old techie focused on networking fundamentals, Linux, operating systems, and security. I’m learning deep concepts behind how the internet and systems really work.
 
 ## What I'm Doing Now
 
-- Going deep into networking fundamentals (how the internet actually works)
-- Strengthening Linux skills in parallel (systems, tooling, automation)
+- Exploring hands-on cybersecurity workflows using tools like Wazuh, Splunk, pfSense, and other industry-standard platforms for monitoring, analysis, and infrastructure security.- Strengthening Linux skills in parallel (systems, tooling, automation)
 - Learning security concepts behind real-world internet tech (hardening, threat thinking, defense)
 - Writing Fisholophies (articles/writings) and vibecoding occasionally as a hobby
 - Building lokii.tech: free knowledge, valuable guides, and career paths (more coming soon)
@@ -31,10 +30,10 @@ Reach me: [Email](mailto:info@sakshamsharma.com.np)
 ## Ask me about: 
 
 - Linux fundamentals and shell scripting (Bash)
-- Networking basics to intermediate (TCP/IP, DNS, HTTP, routing)
-- OS concepts (processes, memory, permissions, filesystems)
-- Security hardening and safe system habits
-
+- Networking fundamentals to intermediate level, Wireshark, pfSense, nmap, network designs
+- Operating System concepts including processes, permissions, filesystems, and Linux internals
+- Security hardening, Wazuh monitoring and alerting basics, firewall configuration, and safe system administration practices
+  
 Fun fact: I play Minecraft in my free time, and I carry a goal to help guide humanity toward building a better world.
 
 ---
@@ -48,14 +47,16 @@ Fun fact: I play Minecraft in my free time, and I carry a goal to help guide hum
 
 **Security + Systems**
 - Security hardening, Principle of Least Privilege
-- SIEM
+- SIEM & XDR, 
 - Networking (packet capture and analysis, Wireshark, PCAP)
 - pfSense
 - Linux
 - Shell (Bash)
 
 **Automation + Programming**
-- Automation (Ansible, Python scripts, shell scripts)
+- Bash and Python scripting for Linux, networking, and security task automation
+- Learning Ansible for configuration management and repeatable system setup
+- Building small tools for log parsing, file handling, and workflow automation
 
 ## Tech Stack
 
